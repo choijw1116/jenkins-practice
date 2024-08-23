@@ -20,7 +20,7 @@ public class TestController {
     public ResponseEntity<String> test(){
         Test response = new Test("new",1);
         testRepository.save(response);
-        return ResponseEntity.ok("okokok");
+        return ResponseEntity.ok("v1");
     }
 
 }
