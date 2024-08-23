@@ -1,4 +1,4 @@
-package com.example.k8spractice;
+package com.example.jenkinspractice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

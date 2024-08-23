@@ -1,4 +1,4 @@
-package com.example.k8spractice;
+package com.example.jenkinspractice;
 
 import jakarta.persistence.*;
 import lombok.*;
